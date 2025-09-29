@@ -1,4 +1,15 @@
-/* .col {
-    background-color: aquamarine;
-    outline: 1px solid blueviolet;
-} */
+.debug {
+    outline: 1px solid red;
+}
+
+.bg-hero {
+    background-image: url("../img/home-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.hero-content {
+    color: white;
+    letter-spacing: 1px;
+}
