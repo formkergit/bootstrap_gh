@@ -1,7 +1,3 @@
-.debug {
-    outline: 1px solid red;
-}
-
 .bg-hero {
     background-image: url("../img/home-bg.jpg");
     background-repeat: no-repeat;
